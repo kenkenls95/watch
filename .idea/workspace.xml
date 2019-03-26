@@ -2,135 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f76aa271-641b-4bae-827f-5470d2ec204d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/application/data/repository/product/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/application/data/repository/product/OrderProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/application/data/repository/product/OrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/application/data/repository/product/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/application/model/product/CategoryInfor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_social_spring_social_config_1_1_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_social_spring_social_core_1_1_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_social_spring_social_facebook_2_0_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_social_spring_social_security_1_1_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_social_spring_social_web_1_1_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/DemoProductList.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/DemoProductList.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/DemoProductList_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/DemoProductList_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/DemoProductList_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/DemoProductList_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile.windows" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/log/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/authen/MySQLUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/authen/MySQLUserDetailsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/config/SpringSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/config/SpringSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/application/controller/BaseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/application/controller/BaseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/application/controller/api/CategoryApiController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/application/controller/api/CategoryApiController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/application/data/model/Details.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/application/data/model/Details.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/application/data/model/product/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/application/data/model/product/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/application/data/service/BaseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/application/data/service/BaseService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/controller/BaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/controller/BaseController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/application/controller/api/CategoryApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/controller/api/CategoryApiController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/application/controller/api/OrderApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/controller/api/OrderApiController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/application/controller/api/ProductApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/controller/api/ProductApiController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/application/controller/api/UploadApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/controller/api/UploadApiController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/controller/api/UserApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/controller/api/UserApiController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/controller/socket/ChatApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/controller/socket/ChatApiController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/controller/socket/ChatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/controller/socket/ChatController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/controller/socket/WebSocketEventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/controller/socket/WebSocketEventListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/controller/web/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/controller/web/AdminController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/controller/web/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/controller/web/CategoryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/controller/web/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/controller/web/HomeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/application/controller/web/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/controller/web/ProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/controller/web/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/controller/web/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/model/product/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/model/ChatMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/model/socket/ChatMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/model/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/model/socket/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/model/order/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/model/OrderProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/model/order/OrderProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/model/OrderStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/model/product/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/model/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/model/user/Role.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/model/user/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/model/UserRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/model/user/UserRole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/repository/CategoryRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/repository/IRoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/repository/user/IRoleRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/repository/IUserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/repository/user/IUserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/repository/IUserRoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/repository/user/IUserRoleRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/repository/MessageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/repository/user/MessageRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/repository/OrderProductRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/repository/OrderRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/repository/OrderStatusRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/repository/product/OrderStatusRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/repository/ProductRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/service/CategoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/service/MessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/service/MessageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/model/Details.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/model/Details.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/model/order/OrderProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/model/order/OrderDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/model/product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/model/product/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/repository/product/OrderProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/repository/product/OrderDetailsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/repository/product/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/repository/product/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/repository/product/OrderStatusRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/repository/product/OrderStatusRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/data/service/BaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/service/BaseService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/application/data/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/service/OrderService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/application/data/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/data/service/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/extension/CustomDateDeserializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/extension/CustomDateSerializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/jobs/ScheduledTasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/jobs/ScheduledTasks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/BaseApiResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/CategoryDataModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/CategoryDetailModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/product/CategoryDetailModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/CategoryInfor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/CategoryProductModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/DataApiResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/FileUploadResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/ListProductModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/MessageModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/socket/MessageModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/OrderDataModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/order/OrderDataModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/OrderDetailModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/order/OrderDetailModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/OrderModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/order/OrderModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/OrderProductApiModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/order/OrderProductApiModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/OrderProductCheckOutModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/order/OrderProductCheckOutModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/OrderProductDataModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/order/OrderProductDataModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/OrderProductDeleteModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/order/OrderProductDeleteModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/OrderProductDetailModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/order/OrderProductDetailModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/OrderStatusModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/order/OrderStatusModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/ProductDataModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/ProductDeleteDataModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/ProductDetailModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/ProductName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/ProductQuantityModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/ProductSearchModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/UserDataModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/user/UserDataModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/UserDetailModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/user/UserDetailModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/UserImageModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/user/UserImageModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/UserOrderModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/user/UserOrderModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/UserRoleDataModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/user/UserRoleDataModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/model/UserRoleModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/model/UserRoleModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/social/FacebookConnectionSignup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/social/FacebookConnectionSignup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/social/FacebookSignInAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/social/FacebookSignInAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/viewmodel/admin/AdminVM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/viewmodel/admin/AdminVM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/viewmodel/common/ProductVM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/viewmodel/common/ProductVM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/viewmodel/homelanding/HomeLandingVM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/viewmodel/homelanding/HomeLandingVM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/viewmodel/productindex/CheckOutVM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/viewmodel/productindex/CheckOutVM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/viewmodel/productindex/ProductIndexVM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/viewmodel/productindex/ProductIndexVM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/viewmodel/productindex/ProductSearchVM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/viewmodel/productindex/ProductSearchVM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/img/us-states.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/img/img/us-states.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/manage_category.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/manage_category.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/manage_customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/manage_customer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/manage_email.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/manage_email.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/manage_order.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/manage_order.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/manage_product.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/manage_product.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/product_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/product_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/socket/admin-chat.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/socket/admin-chat.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/admin/socket/user-chat.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/socket/user-chat.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/fragments/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/fragments/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/garden/hum.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/garden/hum.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/garden/soil.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/garden/soil.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/garden/temp.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/garden/temp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/list_bycategory.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/list_bycategory.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/product/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/product/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/product/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/product/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/user.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -271,6 +164,40 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-2029342765">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="42" />
+          <entry key="properties" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="42" />
+          <entry key="Properties" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="15" />
+          <entry key="java" value="832" />
+          <entry key="properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="832" />
+          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="demo product list" />
@@ -278,115 +205,72 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/application/controller/api/CategoryApiController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/product/CategoryRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+            <state relative-caret-position="170">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.7.RELEASE/895798b9f80b1049bde582550b729153906b5194/spring-data-jpa-1.11.7.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/application/controller/api/ProductApiController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+            <state relative-caret-position="41">
+              <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1094#1095#0" expanded="true" />
+                <element signature="e#1137#1138#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/application/controller/BaseController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/application/data/service/OrderService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#730#731#0" expanded="true" />
-                <element signature="e#777#778#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="289">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/application/model/order/OrderDetailModel.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/application/controller/api/UploadApiController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/application/data/service/BaseService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="64" column="30" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#605#606#0" expanded="true" />
-                <element signature="e#631#632#0" expanded="true" />
-                <element signature="e#664#665#0" expanded="true" />
-                <element signature="e#694#695#0" expanded="true" />
-                <element signature="e#512#513#0" expanded="true" />
-                <element signature="e#539#540#0" expanded="true" />
-                <element signature="e#688#689#0" expanded="true" />
-                <element signature="e#720#721#0" expanded="true" />
-                <element signature="e#766#767#0" expanded="true" />
-                <element signature="e#793#794#0" expanded="true" />
-                <element signature="e#889#890#0" expanded="true" />
-                <element signature="e#922#923#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.13.7.RELEASE/2f57d3f01ebd4667a6e8654e7ff7ec66742729be/spring-data-commons-1.13.7.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.7.RELEASE/895798b9f80b1049bde582550b729153906b5194/spring-data-jpa-1.11.7.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="510" column="36" lean-forward="true" selection-start-line="510" selection-start-column="36" selection-end-line="510" selection-end-column="36" />
-              <folding>
-                <element signature="e#10298#10299#0" expanded="true" />
-                <element signature="e#10355#10356#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/application/data/service/CategoryService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            <state relative-caret-position="228">
+              <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/application/controller/api/UserApiController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/application/data/model/order/OrderDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/product/OrderDetailsRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -394,8 +278,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/application/data/service/ProductService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            <state relative-caret-position="104">
+              <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/product/ProductRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -653,7 +549,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6212101824535" />
+        <entry key="$PROJECT_DIR$" value="6212649240966" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="3620189504" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="829777938" />
@@ -844,14 +740,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/application/service/UserService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/application/Application.java" />
-        <option value="$PROJECT_DIR$/META-INF/persistence.xml" />
-        <option value="$PROJECT_DIR$/gencode/src/application/data/model/TblPricing.java" />
-        <option value="$PROJECT_DIR$/src/main/java/application/model/CategoryInfor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/application/model/ResponseModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/application/model/Meta.java" />
-        <option value="$PROJECT_DIR$/src/main/java/application/model/MetaDataStatus.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/model/product/CategoryDataModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/common/CommonToDo.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/common/Common.java" />
@@ -867,7 +755,6 @@
         <option value="$PROJECT_DIR$/src/main/java/application/viewmodel/common/ProductVM.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/viewmodel/productindex/ProductIndexVM.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/model/order/OrderProductApiModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/application/controller/api/UploadApiController.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/controller/socket/ChatApiController.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/viewmodel/homelanding/HomeLandingVM.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/data/repository/CategoryRepository.java" />
@@ -875,11 +762,6 @@
         <option value="$PROJECT_DIR$/src/main/java/application/data/repository/Product/OrderProductRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/data/repository/product/ProductRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/controller/IController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/application/data/model/product/Product.java" />
-        <option value="$PROJECT_DIR$/src/main/java/application/data/model/product/Category.java" />
-        <option value="$PROJECT_DIR$/src/main/java/application/controller/api/CategoryApiController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/application/controller/api/ProductApiController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/application/config/SpringSecurityConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/extension/LocalDateSerializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/config/WebConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/model/socket/MessageModel.java" />
@@ -889,12 +771,26 @@
         <option value="$PROJECT_DIR$/src/main/java/application/data/model/socket/ChatMessage.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/application/extension/LocalDateDeserializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/data/service/CategoryService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/application/data/service/ProductService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/application/controller/BaseController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/application/data/model/Details.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/application/data/model/product/Category.java" />
+        <option value="$PROJECT_DIR$/src/main/java/application/config/SpringSecurityConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/application/data/service/BaseService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/application/controller/BaseController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/application/controller/api/CategoryApiController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/application/data/model/product/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/application/data/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/application/controller/api/ProductApiController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/application/controller/api/OrderApiController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/application/data/repository/product/OrderRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/application/data/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/application/controller/api/UploadApiController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/application/controller/api/OrderDetailsApiController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/application/data/model/order/OrderDetail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/application/data/model/order/OrderDetails.java" />
+        <option value="$PROJECT_DIR$/src/main/java/application/data/repository/product/OrderDetailsRepository.java" />
       </list>
     </option>
   </component>
@@ -931,39 +827,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="watch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="watch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="watch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="watch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="watch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -971,25 +863,7 @@
             </path>
             <path>
               <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="authen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="watch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -998,7 +872,7 @@
             </path>
             <path>
               <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="watch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -1007,7 +881,7 @@
             </path>
             <path>
               <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="watch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -1017,17 +891,7 @@
             </path>
             <path>
               <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-              <item name="socket" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="watch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -1036,7 +900,7 @@
             </path>
             <path>
               <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="watch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -1046,7 +910,29 @@
             </path>
             <path>
               <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="watch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="watch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="watch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -1056,7 +942,7 @@
             </path>
             <path>
               <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="watch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -1067,7 +953,18 @@
             </path>
             <path>
               <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="watch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="watch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -1077,98 +974,15 @@
             </path>
             <path>
               <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="extension" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="order" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="product" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="watch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="fragments" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DemoProductList" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="DemoProductList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -1185,7 +999,7 @@
     <property name="SearchEverywhereHistoryKey" value="CategoryCon&#9;PSI&#9;JAVA://application.controller.web.CategoryController&#10;CaA&#9;FILE&#9;file://D:/datn/DemoProductList/src/main/java/application/controller/api/CategoryApiController.java&#10;Home&#9;FILE&#9;file://D:/datn/DemoProductList/src/main/java/application/controller/web/HomeController.java&#10;Product&#9;FILE&#9;file://D:/datn/DemoProductList/src/main/java/application/data/model/Product.java&#10;findByNameContaining&#9;PSI&#9;JAVA://application.data.repository.ProductRepository#findByNameContaining&#10;productService&#9;PSI&#9;JAVA://application.data.service.ProductService&#10;login&#9;null&#9;null&#10;Web&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/java/application/config/WebConfig.java&#10;admin&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/resources/templates/admin.html&#10;Cu&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/java/application/extension/CustomDateSerializer.java&#10;i&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/resources/static/js/admin.js&#10;Cus&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/java/application/extension/CustomDateDeserializer.java&#10;index.html&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/resources/templates/index.html&#10;Pro&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/java/application/data/service/ProductService.java&#10;index&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/resources/templates/index.html&#10;Prod&#9;FILE&#9;file://E:/DemoProductList/src/main/java/application/data/repository/ProductRepository.java&#10;appli&#9;FILE&#9;file://E:/DemoProductList/src/main/resources/application.properties&#10;admin.cs&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/resources/static/css/admin.css&#10;product&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/java/application/data/service/ProductService.java&#10;ProductSer&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/java/application/data/service/ProductService.java&#10;adm&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/resources/templates/admin.html&#10;App&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/java/application/Application.java&#10;admin.html&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/resources/templates/admin.html&#10;con&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/java/application/config/WebConfig.java&#10;appl&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/resources/application.properties&#10;Upl&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/java/application/controller/api/UploadApiController.java&#10;Link&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/java/application/controller/web/LinkController.java&#10;app&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/resources/application.properties&#10;home_land&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/resources/templates/home_landing.html&#10;gra&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/build.gradle&#10;Ho&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/src/main/java/application/controller/HomeController.java&#10;buil&#9;FILE&#9;file:///Users/owner/Desktop/JavaWebProjs/DemoProductList/build.gradle" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553435141256" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553613638234" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -1865,11 +1679,12 @@
       <workItem from="1552960138714" duration="8149000" />
       <workItem from="1553257754196" duration="7984000" />
       <workItem from="1553386375106" duration="10498000" />
+      <workItem from="1553607840808" duration="5763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="969582000" />
+    <option name="totallyTimeSpent" value="975345000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1892,7 +1707,7 @@
       <window_info id="Image Layers" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Nl-Palette" order="7" />
-      <window_info content_ui="combo" id="Project" order="8" sideWeight="0.4983871" visible="true" weight="0.35930407" />
+      <window_info active="true" content_ui="combo" id="Project" order="8" sideWeight="0.4983871" visible="true" weight="0.27382752" />
       <window_info id="Structure" order="9" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="1" weight="0.41967213" />
@@ -1907,7 +1722,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Find" order="11" weight="0.32786885" />
       <window_info anchor="bottom" id="Build" order="12" weight="0.32838285" />
-      <window_info active="true" anchor="bottom" id="Run" order="13" sideWeight="0.4969743" visible="true" weight="0.32786885" />
+      <window_info anchor="bottom" id="Run" order="13" sideWeight="0.4969743" weight="0.40819672" />
       <window_info anchor="bottom" id="Debug" order="14" weight="0.3786885" />
       <window_info anchor="bottom" id="Cvs" order="15" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="16" weight="0.4" />
@@ -1945,273 +1760,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/application/controller/BaseController.java</url>
-          <line>34</line>
-          <properties class="application.controller.BaseController" method="insert">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="314" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.13.7.RELEASE/2f57d3f01ebd4667a6e8654e7ff7ec66742729be/spring-data-commons-1.13.7.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java</url>
-          <line>35</line>
-          <properties class="org.springframework.data.repository.CrudRepository" method="save" />
-          <option name="timeStamp" value="322" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/application/controller/BaseController.java</url>
-          <line>35</line>
-          <properties />
-          <option name="timeStamp" value="315" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/application/data/service/BaseService.java</url>
-          <line>63</line>
-          <properties />
-          <option name="timeStamp" value="316" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/application/data/service/BaseService.java</url>
-          <line>64</line>
-          <properties />
-          <option name="timeStamp" value="317" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/application/data/service/BaseService.java</url>
-          <line>65</line>
-          <properties />
-          <option name="timeStamp" value="318" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/application/data/service/BaseService.java</url>
-          <line>66</line>
-          <properties />
-          <option name="timeStamp" value="319" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/application/data/service/BaseService.java</url>
-          <line>67</line>
-          <properties />
-          <option name="timeStamp" value="320" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/application/data/service/BaseService.java</url>
-          <line>68</line>
-          <properties />
-          <option name="timeStamp" value="321" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/viewmodel/admin/AdminVM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="15" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/viewmodel/common/ProductVM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="7" lean-forward="true" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/viewmodel/productindex/ProductIndexVM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-end-line="17" />
-          <folding>
-            <element signature="e#0#380#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/model/order/OrderProductApiModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="7" lean-forward="true" selection-end-line="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/controller/api/UploadApiController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="30" column="35" lean-forward="true" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/viewmodel/homelanding/HomeLandingVM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="57" lean-forward="true" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/controller/socket/ChatApiController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="32" column="15" lean-forward="true" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/product/OrderProductRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/product/OrderRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/product/OrderStatusRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/product/PricingRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/user/IRoleRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/user/IUserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/user/IUserRoleRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/user/MessageRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/product/ProductRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/common/Common.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#setMetaData#2;class#Common#0" />
-            <element signature="method#setMetaData#4;class#Common#0" />
-            <element signature="method#setMetaData#5;class#Common#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/service/IService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/controller/IController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/model/product/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/controller/api/ProductApiController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/config/SpringSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="94" column="45" selection-start-line="94" selection-start-column="45" selection-end-line="94" selection-end-column="45" />
-          <folding>
-            <element signature="e#1462#1513#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/model/product/Category.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/model/Details.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/extension/CustomDateDeserializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/extension/CustomDateSerializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/extension/CustomDateSerializer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/application/extension/LocalDateSerializer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -2228,37 +1782,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#638#639#0" expanded="true" />
-            <element signature="e#673#674#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#752#753#0" expanded="true" />
-            <element signature="e#792#793#0" expanded="true" />
-            <element signature="e#826#827#0" expanded="true" />
-            <element signature="e#856#857#0" expanded="true" />
-            <element signature="e#902#903#0" expanded="true" />
-            <element signature="e#940#941#0" expanded="true" />
-            <element signature="e#969#970#0" expanded="true" />
-            <element signature="e#996#997#0" expanded="true" />
-            <element signature="e#1034#1035#0" expanded="true" />
-            <element signature="e#1066#1067#0" expanded="true" />
-            <element signature="e#1098#1099#0" expanded="true" />
-            <element signature="e#1126#1127#0" expanded="true" />
-            <element signature="e#1169#1170#0" expanded="true" />
-            <element signature="e#1203#1204#0" expanded="true" />
-            <element signature="e#1234#1235#0" expanded="true" />
-            <element signature="e#1264#1265#0" expanded="true" />
-            <element signature="e#1307#1308#0" expanded="true" />
-            <element signature="e#1345#1346#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2280,17 +1803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/config/WebConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="83" column="39" selection-start-line="83" selection-start-column="39" selection-end-line="83" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2918#2935#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2340,17 +1852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
           <caret line="633" column="19" selection-start-line="633" selection-start-column="19" selection-end-line="633" selection-end-column="19" />
-          <folding>
-            <element signature="e#23072#23073#0" expanded="true" />
-            <element signature="e#23112#23113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -2366,85 +1867,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/application/model/order/OrderDetailModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="153">
           <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/service/ProductService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/product/OrderStatusRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/service/CategoryService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/product/PricingRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.7.RELEASE/895798b9f80b1049bde582550b729153906b5194/spring-data-jpa-1.11.7.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/user/IRoleRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/product/CategoryRepository.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/user/IUserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        <state relative-caret-position="68">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/controller/api/CategoryApiController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/user/IUserRoleRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+        <state relative-caret-position="76">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/service/BaseService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/user/MessageRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="64" column="30" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#694#695#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#688#689#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
-            <element signature="e#766#767#0" expanded="true" />
-            <element signature="e#793#794#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
-            <element signature="e#922#923#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.13.7.RELEASE/2f57d3f01ebd4667a6e8654e7ff7ec66742729be/spring-data-commons-1.13.7.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        <state relative-caret-position="269">
+          <caret line="38" column="32" lean-forward="true" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.7.RELEASE/895798b9f80b1049bde582550b729153906b5194/spring-data-jpa-1.11.7.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="510" column="36" lean-forward="true" selection-start-line="510" selection-start-column="36" selection-end-line="510" selection-end-column="36" />
+        <state relative-caret-position="218">
+          <caret line="506" selection-start-line="506" selection-end-line="506" />
           <folding>
             <element signature="e#10298#10299#0" expanded="true" />
             <element signature="e#10355#10356#0" expanded="true" />
@@ -2452,21 +1932,262 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/model/Details.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/model/MetaDataStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/model/ResponseModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.7.RELEASE/895798b9f80b1049bde582550b729153906b5194/spring-data-jpa-1.11.7.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="96" column="6" selection-start-line="96" selection-start-column="6" selection-end-line="96" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/model/product/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/config/WebConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-586">
+          <caret line="71" column="9" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/config/SpringSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="93" column="38" selection-start-line="93" selection-start-column="38" selection-end-line="93" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/common/Common.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setMetaData#2;class#Common#0" />
+            <element signature="method#setMetaData#4;class#Common#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/service/BaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="101" column="5" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/model/product/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/application/controller/BaseController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#322#323#0" expanded="true" />
             <element signature="e#348#349#0" expanded="true" />
             <element signature="e#381#382#0" expanded="true" />
             <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
             <element signature="e#730#731#0" expanded="true" />
             <element signature="e#777#778#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#894#895#0" expanded="true" />
+            <element signature="e#967#968#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+            <element signature="e#1132#1133#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/model/order/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/controller/api/OrderApiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/product/OrderRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/controller/api/CategoryApiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/service/CategoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/product/CategoryRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/controller/api/ProductApiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="14" column="52" lean-forward="true" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/product/ProductRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/controller/api/UploadApiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/controller/api/UserApiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/controller/api/OrderDetailsApiController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/model/order/OrderDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/repository/product/OrderDetailsRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/application/data/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

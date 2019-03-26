@@ -1,28 +1,26 @@
 package application.data.model.order;
 
 import application.data.model.Details;
-import application.data.model.product.Product;
 
 import javax.persistence.*;
-import java.util.Date;
 
 @Entity(name = "tbl_orderproduct")
-public class OrderProduct extends Details {
+public class OrderDetails extends Details {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private Integer orderProductId;
+    private Integer orderDetailsId;
     private Integer product;
     private Integer orderId;
     private Double orderPrice;
     private Integer orderQuantity;
 
 
-    public Integer getOrderProductId() {
-        return orderProductId;
+    public Integer getOrderDetailsId() {
+        return orderDetailsId;
     }
 
-    public void setOrderProductId(Integer orderProductId) {
-        this.orderProductId = orderProductId;
+    public void setOrderDetailsId(Integer orderDetailsId) {
+        this.orderDetailsId = orderDetailsId;
     }
 
     public Integer getProduct() {

@@ -1,12 +1,13 @@
 package application.data.model.product;
 
+import application.data.model.Details;
 import org.springframework.stereotype.Component;
 
 import javax.persistence.*;
 
 @Component
 @Entity(name = "tbl_product")
-public class Product {
+public class Product extends Details{
 
     @GeneratedValue(strategy = GenerationType.AUTO)
     @Column(name = "productid")
@@ -16,7 +17,6 @@ public class Product {
     private String image;
     private Integer amount;
     private String shortDesc;
-    private Double price;
     private Integer categoryId;
 
     public Integer getProductId() {
@@ -57,14 +57,6 @@ public class Product {
 
     public void setShortDesc(String shortDesc) {
         this.shortDesc = shortDesc;
-    }
-
-    public Double getPrice() {
-        return price;
-    }
-
-    public void setPrice(Double price) {
-        this.price = price;
     }
 
     public Integer getCategoryId() {

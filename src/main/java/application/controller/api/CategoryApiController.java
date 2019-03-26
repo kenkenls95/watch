@@ -17,8 +17,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/category")
-public class CategoryApiController extends BaseController<CategoryService,Category> {
-
+public class CategoryApiController extends BaseController<CategoryService, Category> {
 
     private CategoryService categoryService;
 
@@ -29,23 +28,6 @@ public class CategoryApiController extends BaseController<CategoryService,Catego
 
     @Autowired
     ModelMapper modelMapper;
-
-//    @GetMapping
-//    public ResponseModel getAll() {
-//        ResponseModel responseModel = new ResponseModel();
-//        Meta meta = new Meta();
-//        try {
-//            List<Category> categoryList = categoryService.search(null);
-//            ArrayList<CategoryDetailModel> categoryDetailModelArrayList = new ArrayList<>();
-//            for (Category cat : categoryList) {
-//                categoryDetailModelArrayList.add(modelMapper.map(cat, CategoryDetailModel.class));
-//            }
-//            Common.setMetaData(responseModel, categoryList);
-//        } catch (Exception e) {
-//            Common.setMetaData(responseModel, meta, MetaDataStatus.FAILED);
-//        }
-//        return responseModel;
-//    }
 
     @GetMapping("/child")
     public ResponseModel getChild() {
@@ -59,7 +41,7 @@ public class CategoryApiController extends BaseController<CategoryService,Catego
                 CategoryInfor child = modelMapper.map(category1, CategoryInfor.class);
                 ArrayList<Category> data = new ArrayList<>();
                 for (Category category2 : categoryList2) {
-                    if (category1.getCategoryId().equals(category2.getParentId())) {
+                    if (category1.getCategoryId() == category2.getParentId()) {
                         data.add(category2);
                     }
                 }
@@ -75,32 +57,16 @@ public class CategoryApiController extends BaseController<CategoryService,Catego
 
     }
 
-    @GetMapping("/{catId}")
-    public ResponseModel getOne(@PathVariable Integer catId) {
+    @PostMapping("/search")
+    public ResponseModel search(@RequestBody Category category) {
         ResponseModel responseModel = new ResponseModel();
         Meta meta = new Meta();
         try {
-            ArrayList<Category> list = categoryService.search(catId);
+            ArrayList<Category> list = categoryService.search(category.getCategoryId());
             return Common.setMetaData(responseModel, list);
         } catch (Exception e) {
             return Common.setMetaData(responseModel, meta, MetaDataStatus.FAILED);
         }
     }
-
-//    @PostMapping
-//    public ResponseModel insertCat(@RequestBody Category category) {
-//        return categoryService.insert(category);
-//    }
-//
-//    @PutMapping
-//    public ResponseModel updateCat(@RequestBody Category category) {
-//        return categoryService.update(category);
-//    }
-
-    @DeleteMapping("/{catId}")
-    public ResponseModel deleteCat(@PathVariable Integer catId) {
-        return categoryService.delete(catId);
-    }
-
 
 }

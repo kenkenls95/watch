@@ -1,7 +1,7 @@
 //package application.controller.web;
 //
 //import application.data.model.order.Order;
-//import application.data.model.order.OrderProduct;
+//import application.data.model.order.OrderDetails;
 //import application.data.model.product.product;
 //import application.data.model.user.User;
 //import application.data.service.CategoryService;
@@ -111,10 +111,10 @@
 //            Order order = orderService.findOrderByUserguild(user_guild);
 //            System.out.println("====================");
 //            System.out.println("Order by User_Guild :"+user_guild);
-//            ArrayList<OrderProduct> orderProducts = orderService.getListOrderProductByOrderId(order.getOrderId());
+//            ArrayList<OrderDetails> orderProducts = orderService.getListOrderProductByOrderId(order.getOrderId());
 //            ArrayList<OrderProductCheckOutModel> orderProductCheckOutModels =  new ArrayList<>();
 //            int total = 0;
-//            for(OrderProduct o : orderProducts){
+//            for(OrderDetails o : orderProducts){
 //                ProductDetailModel productDetailModel = modelMapper.map(productService.search(o.getProductid()),ProductDetailModel.class);
 //                orderProductCheckOutModels.add(new OrderProductCheckOutModel(o.getId(),productDetailModel.getImage(),productDetailModel.getName(),o.getOrderprice(),o.getOrderquantity()));
 //                total += o.getOrderquantity()*o.getOrderprice();

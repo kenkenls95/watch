@@ -41,5 +41,16 @@ public abstract class BaseController<T extends BaseService,K> implements IContro
         return getService().update(obj);
     }
 
+    @DeleteMapping("/deleteAll")
+    public ResponseModel deleteAll(){
+        return getService().deleteAll();
+    }
+
+    @DeleteMapping("/{id}")
+    public ResponseModel delete(@PathVariable int id){
+        return getService().delete(id);
+    }
+
+
 
 }

@@ -1,7 +1,9 @@
 package application.data.model;
 
+import javax.persistence.MappedSuperclass;
 import java.util.Date;
 
+@MappedSuperclass
 public abstract class Details {
     public Date createdAt;
     public Integer createdBy;
